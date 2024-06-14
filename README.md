@@ -17,7 +17,9 @@ DIV2K-x2 dataset (https://data.vision.ee.ethz.ch/cvl/DIV2K/).
 4. Training process
 
 Model was trained on Kaggle with GPU P100.
+
 Generator warmup: 150 epoch, lr = 1e-4
+
 Training: 11250 update itereations with lr = 1e-4
 
 6. Results
