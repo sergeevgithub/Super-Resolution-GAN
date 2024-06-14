@@ -24,4 +24,4 @@ DIV2K-x2 dataset (https://data.vision.ee.ethz.ch/cvl/DIV2K/).
 
 6. Results
 
-   <p align="center"><img src="assets/result.PNG" width="480"\></p>
+   <p align="center"><img src="assets/result.PNG" width="1000"\></p>
