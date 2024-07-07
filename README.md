@@ -20,7 +20,7 @@ __3. Training process__
 
 * Generator warmup: 150 epoch with lr = 1e-4
 
-* Training: 11250 update itereations with lr = 1e-4
+* Training: 11250 update iterations with lr = 1e-4
 
 __4. Results__
 
